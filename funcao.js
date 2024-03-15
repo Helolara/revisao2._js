@@ -51,3 +51,4 @@ const imc2=(PESO,ALTURA)=>{
 }
 
 console.log(imc(90,1.77));
+console.log("oi")
